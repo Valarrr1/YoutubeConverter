@@ -1,1 +1,1 @@
-Youtube Downloader. Tk inter modlü ile yapıldı
+Youtube Downloader. Tk inter modülü ile yapıldı
